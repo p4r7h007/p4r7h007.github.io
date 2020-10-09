@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<div class="title">
+</div>
+
+body {
+  background-image: url("https://i.imgur.com/S3780rW.png");
+  background-repeat: no-repeat, repeat;
+  background-color: #cccccc;
+}
+
+</html>
